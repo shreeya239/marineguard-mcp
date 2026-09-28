@@ -1164,7 +1164,7 @@ Do not declare Person B complete until all feasible criteria are satisfied:
 
 ---
 
-# 40. FINAL REPORT
+# 40. FINAL REPORT:
 
 At completion provide exactly these sections:
 
@@ -1194,7 +1194,7 @@ Do not claim completion if a required verification was not performed.
 
 ---
 
-# 41. FINAL GIT CHECK
+# 41. FINAL GIT CHECK:
 
 Before stopping:
 
@@ -1222,7 +1222,7 @@ Leave the repository ready for human review and shared GitHub integration.
 
 ---
 
-# 42. CORE PRINCIPLE
+# 42. CORE PRINCIPLE:
 
 The most important rule is:
 
