@@ -1,6 +1,6 @@
 # MarineGuard MCP — AGENTS.md
 
-## Role 2 Person B — Engineering & Integration
+## Role 2 Person B — Engineering & Integration:
 
 You are an autonomous coding agent working on the MarineGuard MCP SIH 2026 project.
 
